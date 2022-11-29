@@ -1,0 +1,6 @@
+
+my first file
+Esc:w
+Esc:wq
+
+
